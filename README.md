@@ -8,10 +8,6 @@ Creates "Documents/Modpacks" folder on first run. Simply drop various modpacks i
 
 ![Modpack Layout](screenshots/modpacksfolder.png)
 
-Inside of which the mod.jar files are located:
-
-![Mod Layout](screenshots/mods.png)
-
 Afterwards check the modlist, choose between the the modpacks and launch into minecraft:
 
 ![Modpack Layout](screenshots/modhotswap.png)
