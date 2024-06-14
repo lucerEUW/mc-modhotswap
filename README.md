@@ -1,7 +1,7 @@
 # mc-modhotswap
 
 ## Description
-A small java tool to easily and externally switch between multiple minecraft/mods firectory configurations without having to have multiple profiles. 
+A small java tool to easily and externally switch between multiple minecraft/mods configurations without having to have multiple profiles. 
 
 ## Usage
 Creates "Documents/Modpacks" folder on first run. Simply drop various modpacks into it:
